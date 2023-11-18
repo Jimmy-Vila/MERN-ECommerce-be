@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
+    "start:seed": "node seed.js",
     "start-mongodb": "docker-compose -f docker-compose-local.yml up -d"
   },
   "dependencies": {
