@@ -16,7 +16,6 @@ Then, Please create and run a MongoDB database using docker-compose
 
 ```
 docker-compose -f docker-compose-local up -d
-
 ```
 
 ### Run Application
